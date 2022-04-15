@@ -1,3 +1,3 @@
-# Predictions
-predictions using Machine learning model
+# Prediction of House Price using linear regression model
+
 
